@@ -1,0 +1,7 @@
+[project]
+name = "simple-app"
+version = "0.1.0"
+description = "A simple calculator application built with uv"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
